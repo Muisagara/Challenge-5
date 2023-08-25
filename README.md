@@ -19,9 +19,10 @@ A calender app that keeps track of events in an 9-5 schedule.
 ## Deployed Site
 [GitHub](https://github.com/Muisagara/Challenge-5)
 
+[Calender-App](https://muisagara.github.io/Challenge-5/)
 
 ## Screenshots
-![Image of APP](/Challenge-5/Screenshot%202023-08-24%20221717.png)
+![Image of APP](image.png)
 
 ## Credited Sources
 -[index.html](/UNCC-VIRT-FSF-PT-07-2023-U-LOLC/05-Third-Party-APIs/02-Challenge/Main/index.html)
