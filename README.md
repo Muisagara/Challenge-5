@@ -25,5 +25,4 @@ A calender app that keeps track of events in an 9-5 schedule.
 ![Image of APP](image.png)
 
 ## Credited Sources
--[index.html](/UNCC-VIRT-FSF-PT-07-2023-U-LOLC/05-Third-Party-APIs/02-Challenge/Main/index.html)
-used this code as a starter.
+The Xpert assisted me with code 
